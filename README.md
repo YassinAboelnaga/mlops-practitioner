@@ -5,8 +5,8 @@ A minimal ML service that predicts NYC green taxi trip duration (in minutes) fro
 ## Quickstart
 
 ```bash
-docker pull <your-dockerhub-username>/prodml-api:0.1.0
-docker run -p 8000:8000 <your-dockerhub-username>/prodml-api:0.1.0
+docker pull yassinaboelnaga/prodml-api:0.1.0
+docker run -p 8000:8000 yassinaboelnaga/prodml-api:0.1.0
 ```
 
 Then, in another terminal:
